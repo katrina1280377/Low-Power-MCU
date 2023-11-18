@@ -1,0 +1,76 @@
+Optimizing Linkage Editor (V.10.00.00.001)        15-Mar-2018 20:46:49
+
+*** Options ***
+
+-subcommand=C:\WorkSpace\E1_timeout\E1_timeout\Debug\E1_timeout.hlk
+-noprelink
+-rom=D=R,D_1=R_1,D_2=R_2
+-nomessage
+-list="C:\WorkSpace\E1_timeout\E1_timeout\Debug\E1_timeout.map"
+-nooptimize
+-start=B_1,R_1,B_2,R_2,B,R,SU,SI/01000,PResetPRG/0FFFF8000,C_1,C_2,C,C$*,D*,P,PIntPRG,W*/0FFFF8100,FIXEDVECT/0FFFFFFD0
+-nologo
+-input="C:\WorkSpace\E1_timeout\E1_timeout\Debug\dbsct.obj"
+-input="C:\WorkSpace\E1_timeout\E1_timeout\Debug\E1_timeout.obj"
+-input="C:\WorkSpace\E1_timeout\E1_timeout\Debug\intprg.obj"
+-input="C:\WorkSpace\E1_timeout\E1_timeout\Debug\resetprg.obj"
+-input="C:\WorkSpace\E1_timeout\E1_timeout\Debug\sbrk.obj"
+-input="C:\WorkSpace\E1_timeout\E1_timeout\Debug\vecttbl.obj"
+-library="C:\WorkSpace\E1_timeout\E1_timeout\Debug\E1_timeout.lib"
+-output="C:\WorkSpace\E1_timeout\E1_timeout\Debug\E1_timeout.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+B_1
+                                  00001000  00001000         0   1
+R_1
+                                  00001000  00001000         0   1
+B_2
+                                  00001000  00001000         0   2
+R_2
+                                  00001000  00001000         0   2
+B
+                                  00001000  000013ff       400   4
+R
+                                  00001400  00001403         4   4
+SU
+                                  00001404  00001703       300   4
+SI
+                                  00001704  00001803       100   4
+PResetPRG
+                                  ffff8000  ffff8045        46   1
+C_1
+                                  ffff8100  ffff8100         0   1
+C_2
+                                  ffff8100  ffff8100         0   2
+C
+                                  ffff8100  ffff8117        18   4
+C$DSEC
+                                  ffff8118  ffff813b        24   4
+C$BSEC
+                                  ffff813c  ffff8153        18   4
+C$VECT
+                                  ffff8154  ffff8553       400   4
+D
+                                  ffff8554  ffff8557         4   4
+D_2
+                                  ffff8558  ffff8558         0   2
+D_1
+                                  ffff8558  ffff8558         0   1
+P
+                                  ffff8558  ffff85c0        69   1
+PIntPRG
+                                  ffff85c1  ffff86aa        ea   1
+W_1
+                                  ffff86ab  ffff86ab         0   1
+W_2
+                                  ffff86ac  ffff86ac         0   2
+W
+                                  ffff86ac  ffff86ac         0   4
+FIXEDVECT
+                                  ffffffd0  ffffffff        30   4

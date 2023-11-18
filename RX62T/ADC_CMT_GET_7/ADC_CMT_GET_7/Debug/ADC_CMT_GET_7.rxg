@@ -1,0 +1,3 @@
+-cpu=rx600
+-output="C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\Debug\ADC_CMT_GET_7.lib"
+-head=runtime,stdio,stdlib,string,new

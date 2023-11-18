@@ -1,0 +1,6 @@
+-cpu=rx600
+-lang=c
+-output=obj="C:\WorkSpace\E1_timeout\E1_timeout\Debug\resetprg.obj"
+-debug
+"C:\WorkSpace\E1_timeout\E1_timeout\resetprg.c"
+-nologo

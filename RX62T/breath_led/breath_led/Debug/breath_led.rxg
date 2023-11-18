@@ -1,0 +1,3 @@
+-cpu=rx600
+-output="C:\WorkSpace\breath_led\breath_led\Debug\breath_led.lib"
+-head=runtime,stdio,stdlib,string,new

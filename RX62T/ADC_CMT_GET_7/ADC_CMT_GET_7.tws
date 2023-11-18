@@ -1,0 +1,23 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"ADC_CMT_GET_7" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Renesas\PDG2_proj\adc_7_test\AD_12\R_PG_ADC_12.c" 
+"C:\Renesas\PDG2_proj\adc_7_test\AD_12\R_PG_ADC_12_S12ADA0.c" 
+"C:\Renesas\PDG2_proj\adc_7_test\CMT\R_PG_Timer_CMT_U0.c" 
+"C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\ADC_CMT_GET_7.c" 
+"C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\resetprg.c" 
+[WORKSPACE_FILE_STATES]
+"C:\Renesas\PDG2_proj\adc_7_test\AD_12\R_PG_ADC_12.c" 52 52 1073 320 0 2 
+"C:\Renesas\PDG2_proj\adc_7_test\AD_12\R_PG_ADC_12_S12ADA0.c" 78 78 1073 320 0 3 
+"C:\Renesas\PDG2_proj\adc_7_test\CMT\R_PG_Timer_CMT_U0.c" 104 104 1073 320 0 4 
+"C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\ADC_CMT_GET_7.c" -8 -31 1219 489 1 0 
+"C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\resetprg.c" 26 26 1194 320 0 1 
+[LOADED_PROJECTS]
+"ADC_CMT_GET_7" 
+[END]

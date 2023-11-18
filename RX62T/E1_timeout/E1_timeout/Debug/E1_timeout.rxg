@@ -1,0 +1,4 @@
+-cpu=rx600
+-output="C:\WorkSpace\E1_timeout\E1_timeout\Debug\E1_timeout.lib"
+-lang=c99
+-head=runtime,stdio,stdlib,string,new

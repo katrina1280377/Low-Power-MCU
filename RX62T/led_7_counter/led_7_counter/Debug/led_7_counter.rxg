@@ -1,0 +1,3 @@
+-cpu=rx600
+-output="C:\WorkSpace\led_7_counter\led_7_counter\Debug\led_7_counter.lib"
+-head=runtime,stdio,stdlib,string,new

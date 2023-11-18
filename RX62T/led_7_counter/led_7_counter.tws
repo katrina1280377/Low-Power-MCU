@@ -1,0 +1,31 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"led_7_counter" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Renesas\PDG2_proj\led_count\CMT\R_PG_Timer_CMT_U0.c" 
+"C:\Renesas\PDG2_proj\led_count\i_src\Interrupt_CMT.c" 
+"C:\Renesas\PDG2_proj\led_count\i_src\Interrupt_INTC.c" 
+"C:\Renesas\PDG2_proj\led_count\IO\R_PG_IO_PORT_P7.c" 
+"C:\Renesas\PDG2_proj\led_count\IO\R_PG_IO_PORT_PA.c" 
+"C:\Renesas\PDG2_proj\led_count\IO\R_PG_IO_PORT_PB.c" 
+"C:\Renesas\PDG2_proj\led_count\SYSTEM\R_PG_Clock.c" 
+"C:\WorkSpace\led_7_counter\led_7_counter\led_7_counter.c" 
+"C:\WorkSpace\led_7_counter\led_7_counter\resetprg.c" 
+[WORKSPACE_FILE_STATES]
+"C:\Renesas\PDG2_proj\led_count\CMT\R_PG_Timer_CMT_U0.c" 0 0 1132 319 0 4 
+"C:\Renesas\PDG2_proj\led_count\IO\R_PG_IO_PORT_P7.c" 26 26 1132 319 0 5 
+"C:\Renesas\PDG2_proj\led_count\IO\R_PG_IO_PORT_PA.c" 78 78 1132 319 0 7 
+"C:\Renesas\PDG2_proj\led_count\IO\R_PG_IO_PORT_PB.c" 130 130 1132 319 0 3 
+"C:\Renesas\PDG2_proj\led_count\SYSTEM\R_PG_Clock.c" 104 104 1132 319 0 8 
+"C:\Renesas\PDG2_proj\led_count\i_src\Interrupt_CMT.c" 78 78 1132 319 0 1 
+"C:\Renesas\PDG2_proj\led_count\i_src\Interrupt_INTC.c" 52 52 1132 319 0 6 
+"C:\WorkSpace\led_7_counter\led_7_counter\led_7_counter.c" -8 -31 1662 650 1 0 
+"C:\WorkSpace\led_7_counter\led_7_counter\resetprg.c" 104 104 1132 319 0 2 
+[LOADED_PROJECTS]
+"led_7_counter" 
+[END]

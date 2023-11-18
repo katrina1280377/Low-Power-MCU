@@ -1,0 +1,7 @@
+-cpu=rx600
+-lang=c
+-include="c:\renesas\PDG2_proj\SCI_RxTx_7_test","c:\renesas\PDG2_proj\SCI_RxTx_7_test\i_src"
+-output=obj="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\resetprg.obj"
+-debug
+"C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\resetprg.c"
+-nologo

@@ -1,0 +1,8 @@
+-cpu=rx600
+-lang=c
+-include="c:\renesas\PDG2_proj\led_count","c:\renesas\PDG2_proj\led_count\i_src"
+-output=obj="C:\WorkSpace\led_7_counter\led_7_counter\Debug\Interrupt_INTC.obj"
+-debug
+-optimize=0
+"c:\renesas\PDG2_proj\led_count\i_src\Interrupt_INTC.c"
+-nologo

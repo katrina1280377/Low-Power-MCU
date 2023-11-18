@@ -1,0 +1,23 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"SCI_RxTx_7_test" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Renesas\PDG2_proj\SCI_RxTx_7_test\IO\R_PG_IO_PORT_PB.c" 
+"C:\Renesas\PDG2_proj\SCI_RxTx_7_test\SCI\R_PG_SCI_C0.c" 
+"C:\Renesas\PDG2_proj\SCI_RxTx_7_test\SYSTEM\R_PG_Clock.c" 
+"C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\resetprg.c" 
+"C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\SCI_RxTx_7_test.c" 
+[WORKSPACE_FILE_STATES]
+"C:\Renesas\PDG2_proj\SCI_RxTx_7_test\IO\R_PG_IO_PORT_PB.c" 26 26 1141 320 0 4 
+"C:\Renesas\PDG2_proj\SCI_RxTx_7_test\SCI\R_PG_SCI_C0.c" 104 104 1115 343 0 2 
+"C:\Renesas\PDG2_proj\SCI_RxTx_7_test\SYSTEM\R_PG_Clock.c" 26 26 1115 343 0 1 
+"C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\SCI_RxTx_7_test.c" 0 0 1287 489 0 0 
+"C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\resetprg.c" 0 0 1141 320 0 3 
+[LOADED_PROJECTS]
+"SCI_RxTx_7_test" 
+[END]

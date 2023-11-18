@@ -1,0 +1,3 @@
+-cpu=rx600
+-output="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\SCI_RxTx_7_test.lib"
+-head=runtime,stdio,stdlib,string,new

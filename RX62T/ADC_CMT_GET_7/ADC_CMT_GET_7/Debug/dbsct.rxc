@@ -1,0 +1,7 @@
+-cpu=rx600
+-lang=c
+-include="c:\renesas\PDG2_proj\adc_7_test","c:\renesas\PDG2_proj\adc_7_test\i_src"
+-output=obj="C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\Debug\dbsct.obj"
+-debug
+"C:\WorkSpace\ADC_CMT_GET_7\ADC_CMT_GET_7\dbsct.c"
+-nologo

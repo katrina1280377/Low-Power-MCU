@@ -1,0 +1,82 @@
+Optimizing Linkage Editor (V.10.00.00.001)        29-Mar-2018 18:20:09
+
+*** Options ***
+
+-subcommand=C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\SCI_RxTx_7_test.hlk
+-noprelink
+-rom=D=R,D_1=R_1,D_2=R_2
+-nomessage
+-list="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\SCI_RxTx_7_test.map"
+-nooptimize
+-start=B_1,R_1,B_2,R_2,B,R,SU,SI/01000,PResetPRG/0FFFF8000,C_1,C_2,C,C$*,D*,P,PIntPRG,W*/0FFFF8100,FIXEDVECT/0FFFFFFD0
+-nologo
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\dbsct.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\Interrupt_INTC.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\Interrupt_SCI.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\R_PG_Clock.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\R_PG_IO_PORT_P7.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\R_PG_IO_PORT_PA.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\R_PG_IO_PORT_PB.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\R_PG_SCI_C0.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\resetprg.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\sbrk.obj"
+-input="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\SCI_RxTx_7_test.obj"
+-library="C:\Renesas\PDG2\lib\RX62T\RX62T_library_LQFP_64.lib"
+-library="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\SCI_RxTx_7_test.lib"
+-output="C:\WorkSpace\SCI_RxTx_7_test\SCI_RxTx_7_test\Debug\SCI_RxTx_7_test.abs"
+-end
+
+*** Error information ***
+
+** L1100 (W) Cannot find "PIntPRG" specified in option "start"
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+B_1
+                                  00001000  00001013        14   1
+R_1
+                                  00001014  00001014         1   1
+B_2
+                                  00001016  0000102d        18   2
+R_2
+                                  0000102e  0000102e         0   2
+B
+                                  00001030  00001493       464   4
+R
+                                  00001494  00001547        b4   4
+SU
+                                  00001548  00001847       300   4
+SI
+                                  00001848  00001947       100   4
+PResetPRG
+                                  ffff8000  ffff8045        46   1
+C_1
+                                  ffff8100  ffff810b         c   1
+C_2
+                                  ffff810c  ffff810c         0   2
+C
+                                  ffff810c  ffff8123        18   4
+C$DSEC
+                                  ffff8124  ffff8147        24   4
+C$BSEC
+                                  ffff8148  ffff815f        18   4
+C$VECT
+                                  ffff8160  ffff855f       400   4
+D
+                                  ffff8560  ffff8613        b4   4
+D_2
+                                  ffff8614  ffff8614         0   2
+D_1
+                                  ffff8614  ffff8614         1   1
+P
+                                  ffff8615  ffffa578      1f64   1
+W_1
+                                  ffffa579  ffffa579         0   1
+W_2
+                                  ffffa57a  ffffa58d        14   2
+W
+                                  ffffa590  ffffa590         0   4
+FIXEDVECT
+                                  ffffffd0  ffffffff        30   4
